@@ -1,15 +1,15 @@
-.Article {
+.Page {
   padding: 5%;
 }
 
-.Article__title {
+.PagesTitle {
   margin-bottom: 1em;
 
   color: #ffffff;
   opacity: 0.8;
 }
 
-.Article__paragraph {
+.PagesParagraph {
   margin-bottom: 0.6em;
 
   line-height: 1.5;

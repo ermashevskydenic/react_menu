@@ -1,15 +1,15 @@
-import './Article.css';
+import './Pages.css';
 
 export default function DriftPage() {
   return (
-    <article className="Article">
-      <h1 className="Article__title">Дрифт-такси</h1>
-      <p className="Article__paragraph">
+    <article className="Page">
+      <h1 className="PagesTitle">Дрифт-такси</h1>
+      <p className="PagesParagraph">
         Только ​на Сочи Автодроме вас ждет уникальная возможность промчаться по
         трассе Формулы 1 на максимально возможной скорости в управляемом заносе
         на легендарной «королеве дрифта» Nissan Silvia!
       </p>
-      <p className="Article__paragraph">
+      <p className="PagesParagraph">
         Прокатитесь на дрифт-такси с вице-чемпионом Межконтинентального кубка по
         дрифту под эгидой FIA 2017 года Аркадием Цареградцевым и испытайте на
         себе, что значат скоростные постановки и эффектные заносы!

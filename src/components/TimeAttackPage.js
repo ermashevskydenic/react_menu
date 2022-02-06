@@ -1,10 +1,10 @@
-import './Article.css';
+import './Pages.css';
 
 export default function TimeAttackPage() {
   return (
-    <article className="Article">
-      <h1 className="Article__title">Гонка ​​​​​​Time Attack</h1>
-      <p className="Article__paragraph">
+    <article className="Page">
+      <h1 className="PagesTitle">Гонка ​​​​​​Time Attack</h1>
+      <p className="PagesParagraph">
         Гонка Time Attack создана для тех, кто любит ставить рекорды – открытое
         соревнование на гражданских автомобилях не предполагает контактной
         борьбы пилотов во время заезда, но позволит в полной мере ощутить

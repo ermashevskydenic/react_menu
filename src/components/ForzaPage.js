@@ -1,14 +1,14 @@
-import './Article.css';
+import './Pages.css';
 
 export default function ForzaPage() {
   return (
-    <article className="Article">
-      <h1 className="Article__title">Forza Karting Sochi</h1>
-      <p className="Article__paragraph">
+    <article className="Page">
+      <h1 className="PagesTitle">Forza Karting Sochi</h1>
+      <p className="PagesParagraph">
         В Олимпийском парке работает новый открытый развлекательный картинг
         центр мирового уровня!
       </p>
-      <p className="Article__paragraph">
+      <p className="PagesParagraph">
         Вас ждут большая, широкая, безопасная трасса и супер современные карты
         европейского производства c двигателями мощностью 13 л.с. Трасса длинной
         более 500 метров оборудована системой хронометража, фиксирующей данные
